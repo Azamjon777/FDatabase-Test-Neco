@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037409370774",
+    "firebase_url": "https://databasejavaneco-default-rtdb.firebaseio.com",
+    "project_id": "databasejavaneco",
+    "storage_bucket": "databasejavaneco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037409370774:android:2677a9a047506510bdb8b7",
+        "android_client_info": {
+          "package_name": "com.example.databaseneco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037409370774-tu1qt6mp96hm1kkskuf3rgnkiq5ogg7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALM_09-Anvb3i2XqjkHk2LTAvg-ELV51o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037409370774-tu1qt6mp96hm1kkskuf3rgnkiq5ogg7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
